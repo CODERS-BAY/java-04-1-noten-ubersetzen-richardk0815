@@ -23,7 +23,6 @@ public class notenUebersetzen {
                 break;
             default:
                 System.out.println("Falsche Eingabe");
-
         }
     }
 }
